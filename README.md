@@ -38,6 +38,3 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 =======
 # StackSurge
 >>>>>>> 5db8df5d3cefbbbc2bca2240d255eb01738c0f5e
-
-
-updated Readme
